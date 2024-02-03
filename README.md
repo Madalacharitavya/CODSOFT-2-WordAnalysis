@@ -31,3 +31,11 @@ Overall, the Java code analyzes a given input text, counts the total words, uniq
 
 ** Output Demo **
 https://www.linkedin.com/feed/update/urn:li:activity:7089547810131349504/
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
